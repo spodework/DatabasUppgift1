@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\School Assignments\\DatabasUppgift1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|d:\\dev\\school assignments\\databasuppgift1\\databasuppgift1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|solutionrelative:databasuppgift1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|d:\\dev\\school assignments\\databasuppgift1\\databasuppgift1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|solutionrelative:databasuppgift1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|d:\\dev\\school assignments\\databasuppgift1\\databasuppgift1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|solutionrelative:databasuppgift1\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|d:\\dev\\school assignments\\databasuppgift1\\databasuppgift1\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BE398B-DF54-4828-A706-BBEFCB874E00}|DatabasUppgift1\\DatabasUppgift1.csproj|solutionrelative:databasuppgift1\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "DatabasUppgift1\\StudentDbContext.cs",
+              "ToolTip": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\StudentDbContext.cs",
+              "RelativeToolTip": "DatabasUppgift1\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:22:42.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\Student.cs",
+              "RelativeDocumentMoniker": "DatabasUppgift1\\Student.cs",
+              "ToolTip": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\Student.cs",
+              "RelativeToolTip": "DatabasUppgift1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:54:36.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\Helper.cs",
+              "RelativeDocumentMoniker": "DatabasUppgift1\\Helper.cs",
+              "ToolTip": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\Helper.cs",
+              "RelativeToolTip": "DatabasUppgift1\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T13:04:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\Program.cs",
+              "RelativeDocumentMoniker": "DatabasUppgift1\\Program.cs",
+              "ToolTip": "D:\\Dev\\School Assignments\\DatabasUppgift1\\DatabasUppgift1\\Program.cs",
+              "RelativeToolTip": "DatabasUppgift1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:42:40.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
